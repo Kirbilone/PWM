@@ -1,6 +1,0 @@
-flask
-flask-login
-gspread
-oauth2client
-pandas
-gunicorn
